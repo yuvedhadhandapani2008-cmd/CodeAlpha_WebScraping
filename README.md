@@ -114,3 +114,7 @@ and saves them into a CSV file.
 Yuvedha Dhandapani
 
 Data Analytics Intern — CodeAlpha
+
+---
+
+## ⭐ If you found this project useful, consider giving it a star on GitHub!
