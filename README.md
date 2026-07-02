@@ -84,7 +84,7 @@ The project generates:
 
 Clone the repository
 
-git clone https://github.com/yourusername/CodeAlpha_WebScraping.git
+git clone https://github.com/yuvedhadhandapani2008-cmd/CodeAlpha_WebScraping.git
 
 Install dependencies
 
